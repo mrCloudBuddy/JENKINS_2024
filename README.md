@@ -1,2 +1,7 @@
 # JENKINS_2024
-This repo is dedicated for CI - tool JENKINS.
+This repo is dedicated to the CI - tool JENKINS.
+
+
+
+
+# jenkins - 2025
